@@ -1,0 +1,48 @@
+{
+  "version": 1,
+  "base_track": "Change -Instrumental-",
+  "base_artist": "Cö shu Nie",
+  "createdAt": "2026-02-17T12:51:46.974169Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Change (Instrumental with BGV)",
+      "artist": "Taylor Swift",
+      "has_synced": true,
+      "path": "select/01_Change_(Instrumental_with_BGV)_Taylor_Swift.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Loose Change - Instrumental",
+      "artist": "The Alchemist",
+      "has_synced": true,
+      "path": "select/02_Loose_Change_-_Instrumental_The_Alchemist.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Loose Change (Instrumental)",
+      "artist": "The Alchemist",
+      "has_synced": true,
+      "path": "select/03_Loose_Change_(Instrumental)_The_Alchemist.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Change - Instrumental",
+      "artist": "DENONBU, Yunomi, 桜乃美々兎 (CV: 小坂井祐莉絵), 水上 雛 (CV: 大森日雅), 犬吠埼紫杏 (CV: 長谷川玲奈)",
+      "has_synced": true,
+      "path": "select/04_Change_-_Instrumental_DENONBU,_Yunomi,_桜乃美々兎_(CV__小坂井祐莉絵),_水上_雛_(CV__大森日雅),_犬吠埼紫杏_(CV__長谷川玲奈).lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Change",
+      "artist": "Co shu Nie",
+      "has_synced": false,
+      "path": "select/pl_01_Change_Co_shu_Nie.txt"
+    }
+  ]
+}
